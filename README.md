@@ -1,2 +1,4 @@
 # Top500Hpc
-An analysis of the top 500 HPC computers
+A project for the Specialized Master in HPC-AI from Mines Paris.
+
+An analysis of the top 500 HPC computers.
